@@ -30,7 +30,7 @@ Customer Behavior 🧑‍🤝‍🧑: Understand purchasing patterns and prefere
 
 These analytics will empower stakeholders with data-driven insights to optimize strategies and boost performance. 💡 📜 License This project is licensed under the MIT License 🆓, allowing free use, modification, and distribution with proper attribution. Feel free to explore, adapt, and contribute to the project!
 
-HERE IS HOW I TRACKED MY PROGRESS ON NOTION:: https://www.notion.so/DATA-WAREHOUSE-PROJECT-23bcd306fc8b8086a076f02d361a274d?source=copy_link
+HERE IS HOW I TRACKED MY PROGRESS ON NOTION:: https://www.notion.so/SQL-Data-Warehouse-Project-25607f2a39f980c3a4e0ee35d6cab8a9?source=copy_link
 
 👨‍💻 About the Developer Hi, I'm Jitender Malik, an aspiring data analyst with a passion for turning raw data into meaningful insights. 🌟 I'm confident, driven, and excited to leverage tools like SQL Server to build solutions that empower businesses. My goal is to craft data-driven stories that inspire informed decisions and spark innovation. Connect with me to collaborate on exciting data projects! 🚀
 
