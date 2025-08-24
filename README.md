@@ -1,4 +1,4 @@
-#Data Warehouse and Analytics Project
+## Data Warehouse and Analytics Project
 
 📊 Data Warehouse Project 🚀 🎯 Objective The SalesSync Data Warehouse project aims to build a robust data warehouse using SQL Server to consolidate sales data from multiple sources, enabling powerful analytical reporting and informed decision-making for business stakeholders. 📈
 
